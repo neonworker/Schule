@@ -2,7 +2,7 @@ import java.util.*;
 /**
  * Created by kdl on 15.08.2016.
  */
-public class Templel {
+public class TempLelUND {
     public static void main(String[] args) {
         double temp1; //erste gemessene Temperatur
         String uhrzeit1; //Uhrzeit von temp1
@@ -14,6 +14,12 @@ public class Templel {
         String uhrzeit3;//Uhrzeit von temp3
 
         double quotient; //durchnittliche Temperatur
+
+        double topTemp = 0;
+        String topTime = "";
+
+        double minTemp = 0;
+        String minTime = "";
 
         Scanner tastatur; //Scanner initalisieren
         tastatur = new Scanner(System.in); //Scanner Bibliotheksmethode zuweisen
@@ -36,26 +42,36 @@ public class Templel {
         //Berechnung der geringsten Temperatur und Ausgabeschleife
 
         if ((temp1 < temp2) && (temp1 < temp3)){
-            System.out.println("Die geringste Temperatur wurde um " + uhrzeit1 + " gemessen und beträgt " + temp1 + "°C.");
+            minTemp = temp1;
+            minTime = uhrzeit1;
         }
         else if ((temp2 < temp1) && (temp2 < temp3)){
-            System.out.println("Die geringste Temperatur wurde um " + uhrzeit2 + " gemessen und beträgt " + temp2 + "°C.");
+            minTemp = temp2;
+            minTime = uhrzeit2;
         }
         else{
-            System.out.println("Die geringste Temperatur wurde um " + uhrzeit3 + " gemessen und beträgt " + temp3 + "°C.");
+            minTemp = temp3;
+            minTime = uhrzeit3;
         }
+
+        System.out.println("Die geringste Temperatur wurde um " + minTime + " gemessen und beträgt " + minTemp + "°C.");
 
         //Berechnugn der höchsten Temperatur und Ausgabeschleife
 
         if ((temp1 > temp2) && (temp1 > temp3)){
-            System.out.println("Die höchste Temperatur wurde um " + uhrzeit1 + " gemessen und beträgt " + temp1 + "°C.");
+            topTemp = temp1;
+            topTime = uhrzeit1;
         }
         else if ((temp2 > temp1) && (temp2 > temp3)){
-            System.out.println("Die höchste Temperatur wurde um " + uhrzeit2 + " gemessen und beträgt " + temp2 + "°C.");
+            topTemp = temp2;
+            topTime = uhrzeit2;
         }
         else{
-            System.out.println("Die höchste Temperatur wurde um " + uhrzeit3 + " gemessen und beträgt " + temp3 + "°C.");
+            topTemp = temp3;
+            topTime = uhrzeit3;
         }
+
+        System.out.println("Die höchste Temperatur wurde um " + topTime + " gemessen und beträgt" + topTemp + "°C.");
 
         //Berechnung der durchschnittlichen Temperatur und Ausgabe
 
