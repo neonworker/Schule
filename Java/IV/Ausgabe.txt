@@ -1,0 +1,160 @@
+Auswertung for den: 17.10.16
+Das Minimum ist: 8.4
+Das Maximum ist: 10.4
+Der Mittelwert ist: 9.4
+===========================
+Auswertung for den: 18.10.16
+Das Minimum ist: 8.3
+Das Maximum ist: 10.4
+Der Mittelwert ist: 9.35
+===========================
+Auswertung for den: 19.10.16
+Das Minimum ist: 8.2
+Das Maximum ist: 10.4
+Der Mittelwert ist: 9.3
+===========================
+Auswertung for den: 20.10.16
+Das Minimum ist: 8.1
+Das Maximum ist: 10.4
+Der Mittelwert ist: 9.249999999999998
+===========================
+Auswertung for den: 21.10.16
+Das Minimum ist: 8.0
+Das Maximum ist: 10.4
+Der Mittelwert ist: 9.2
+===========================
+Auswertung for den: 22.10.16
+Das Minimum ist: 7.9
+Das Maximum ist: 10.4
+Der Mittelwert ist: 9.15
+===========================
+Auswertung for den: 23.10.16
+Das Minimum ist: 7.8
+Das Maximum ist: 10.4
+Der Mittelwert ist: 9.100000000000003
+===========================
+Auswertung for den: 24.10.16
+Das Minimum ist: 7.7
+Das Maximum ist: 10.4
+Der Mittelwert ist: 9.05
+===========================
+Auswertung for den: 25.10.16
+Das Minimum ist: 7.6
+Das Maximum ist: 10.4
+Der Mittelwert ist: 9.0
+===========================
+Auswertung for den: 26.10.16
+Das Minimum ist: 7.5
+Das Maximum ist: 10.4
+Der Mittelwert ist: 8.95
+===========================
+Auswertung for den: 27.10.16
+Das Minimum ist: 7.4
+Das Maximum ist: 10.4
+Der Mittelwert ist: 8.899999999999999
+===========================
+Auswertung for den: 28.10.16
+Das Minimum ist: 7.3
+Das Maximum ist: 10.4
+Der Mittelwert ist: 8.85
+===========================
+Auswertung for den: 29.10.16
+Das Minimum ist: 7.2
+Das Maximum ist: 10.4
+Der Mittelwert ist: 8.799999999999999
+===========================
+Auswertung for den: 30.10.16
+Das Minimum ist: 7.10000000000001
+Das Maximum ist: 10.4
+Der Mittelwert ist: 8.779069767441861
+===========================
+Auswertung for den: 31.10.16
+Das Minimum ist: 7.00000000000001
+Das Maximum ist: 10.4
+Der Mittelwert ist: 8.728260869565217
+===========================
+Auswertung for den: 01.11.16
+Das Minimum ist: 6.90000000000001
+Das Maximum ist: 10.4
+Der Mittelwert ist: 8.677551020408165
+===========================
+Auswertung for den: 02.11.16
+Das Minimum ist: 6.80000000000001
+Das Maximum ist: 10.4
+Der Mittelwert ist: 8.62692307692308
+===========================
+Auswertung for den: 03.11.16
+Das Minimum ist: 6.70000000000001
+Das Maximum ist: 10.4
+Der Mittelwert ist: 8.576363636363638
+===========================
+Auswertung for den: 04.11.16
+Das Minimum ist: 6.60000000000001
+Das Maximum ist: 10.4
+Der Mittelwert ist: 8.554237288135596
+===========================
+Auswertung for den: 05.11.16
+Das Minimum ist: 6.50000000000001
+Das Maximum ist: 10.4
+Der Mittelwert ist: 8.503225806451615
+===========================
+Auswertung for den: 06.11.16
+Das Minimum ist: 6.40000000000001
+Das Maximum ist: 10.4
+Der Mittelwert ist: 8.452307692307693
+===========================
+Auswertung for den: 07.11.16
+Das Minimum ist: 6.30000000000001
+Das Maximum ist: 10.4
+Der Mittelwert ist: 8.401470588235293
+===========================
+Auswertung for den: 08.11.16
+Das Minimum ist: 6.20000000000001
+Das Maximum ist: 10.4
+Der Mittelwert ist: 8.350704225352114
+===========================
+Auswertung for den: 09.11.16
+Das Minimum ist: 6.10000000000001
+Das Maximum ist: 10.4
+Der Mittelwert ist: 8.300000000000002
+===========================
+Auswertung for den: 10.11.16
+Das Minimum ist: 6.00000000000001
+Das Maximum ist: 10.5
+Der Mittelwert ist: 8.27820512820513
+===========================
+Auswertung for den: 11.11.16
+Das Minimum ist: 5.90000000000001
+Das Maximum ist: 10.5
+Der Mittelwert ist: 8.227160493827162
+===========================
+Auswertung for den: 12.11.16
+Das Minimum ist: 5.80000000000001
+Das Maximum ist: 10.5
+Der Mittelwert ist: 8.176190476190476
+===========================
+Auswertung for den: 13.11.16
+Das Minimum ist: 5.70000000000001
+Das Maximum ist: 10.5
+Der Mittelwert ist: 8.12528735632184
+===========================
+Auswertung for den: 14.11.16
+Das Minimum ist: 5.60000000000001
+Das Maximum ist: 10.5
+Der Mittelwert ist: 8.074444444444445
+===========================
+Auswertung for den: 15.11.16
+Das Minimum ist: 5.50000000000001
+Das Maximum ist: 10.5
+Der Mittelwert ist: 8.023655913978496
+===========================
+Auswertung for den: 16.11.16
+Das Minimum ist: 5.40000000000001
+Das Maximum ist: 10.5
+Der Mittelwert ist: 7.972916666666667
+===========================
+Auswertung for den: 17.11.16
+Das Minimum ist: 5.30000000000001
+Das Maximum ist: 20.0
+Der Mittelwert ist: 8.062376237623761
+===========================
